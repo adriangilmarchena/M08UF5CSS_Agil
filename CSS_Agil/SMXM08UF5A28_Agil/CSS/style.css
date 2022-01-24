@@ -1,0 +1,108 @@
+.fila2{
+    display: flexbox;
+    text-align: center;
+}
+.fila1{
+    text-align: center;
+}
+.fila3{
+    text-align: center;
+}
+
+.box1{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: solid green;
+}
+  .box1, .box2, .box3, .box4, .box5, .box6, .box7, .box8, .box9{
+    text-align: center;
+}
+.box2{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: solid green;
+}
+.box3{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: solid green;
+}
+.box4{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: solid green;
+}
+.box5{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: solid green;
+}
+.box6{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: solid green;
+}
+
+.box7{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: solid green;
+}
+.box8{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: solid green;
+}
+.box9{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: solid green;
+}
+
+.solidoverde{
+    border: solid green;
+    height: 35px;
+    margin: 0%;
+}
+
+.verde{
+    border: dashed green;
+    height: 35px;
+    margin: 0%;
+}
+
+.azul{
+    border: dashed blue;
+    height: 35px;
+    margin: 0;
+}
+
+.rojo{
+    border:dashed red;
+    height: 35px;
+    margin: 0%;
+}
+
+.solidorojo{
+    border: solid red;
+    height: 35px;
+    margin: 0%;
+}

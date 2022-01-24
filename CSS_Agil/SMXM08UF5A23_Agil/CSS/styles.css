@@ -1,0 +1,110 @@
+body{
+    background-image: url(../img/IMAGEN.png);
+    background-position: center;
+}
+#tabla{
+    width: 70%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.p1 span {
+    text-decoration: underline;
+}
+.p1 .segona {
+    text-decoration: overline;
+}
+.p2 .segona {
+    text-decoration: overline;
+}
+.p3 .segona {
+    text-decoration: overline;
+}
+.p4 .segona {
+    text-decoration: overline;
+}
+.p5 .segona {
+    text-decoration: overline;
+}
+.p6 .segona {
+    text-decoration: overline;
+}
+.p7 .segona {
+    text-decoration: overline;
+}
+.p8 .segona{
+    text-decoration: overline;
+}
+.p9 .segona{
+    text-decoration: overline;
+}
+.p10 .segona{
+    text-decoration: overline;
+}
+
+.p2 span{
+    text-decoration: underline;
+}
+.p3 span{
+    text-decoration: underline;
+}
+.p4 span{
+    text-decoration: underline;
+}
+.p5 span{
+    text-decoration: underline;
+}
+.p6 span{
+    text-decoration: underline;
+}
+.p7 span{
+    text-decoration: underline;
+}
+.p8 span{
+    text-decoration: underline;
+}
+.p9 span{
+    text-decoration: underline;
+}
+.p10 span{
+    text-decoration: underline;
+}
+p .negrita{
+    font-weight: bold;
+}
+p:hover{
+    color: greenyellow;
+}
+
+.p1{
+    background-color: yellow;
+}
+
+.p2{
+ background-color:rgb(235, 200, 1) ;   
+}
+.p3{
+    background-color: silver;
+}
+.p4{
+    background-color: orange;
+}
+.p5{
+    background-color: rgb(255, 136, 0);
+}
+.p6{
+    background-color: rgb(202, 131, 0);
+}
+.p7{
+    background-color: rgb(185, 90, 0);
+}
+.p8{
+    background-color: rgb(143, 76, 13);
+}
+.p9{
+    background-color: rgb(116, 45, 24);
+}
+.p10{
+    background-color: rgb(156, 9, 65);
+}
+  
+
+

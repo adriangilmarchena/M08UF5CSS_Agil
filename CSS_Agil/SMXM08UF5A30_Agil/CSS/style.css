@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.encabezado{
+    background-color: green;
+}
+
+.encabezado nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px;
+}
+
+.encabezado nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+li{
+    color:white;
+    padding: 12px 20px;
+    display: block;
+   
+}
+li:hover{
+    color: yellow;
+    
+}
+
+.encabezado nav ul li ul{
+   display: flex; 
+   flex-direction: column;
+}
+
+.encabezado nav ul li ul{
+    position: absolute;
+    background-color: green;
+}
+
+.encabezado nav ul li ul li{
+    width: 180px;
+    position: relative;
+}
+
+.encabezado nav ul li ul{
+    display: none;
+}
+
+.encabezado nav ul li:hover > ul{
+display: block;
+}
+
+
+
+

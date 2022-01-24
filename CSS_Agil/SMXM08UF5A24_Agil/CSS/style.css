@@ -1,0 +1,27 @@
+
+li{
+    background-color: blue;
+    width: 100px;
+    text-align: center;
+    color: white;
+    border: solid;
+    height: 25px;
+    list-style: none;
+
+}
+
+li:hover{
+    border-color: red;
+}
+
+.capdesetmana{
+    background-color: green;
+    text-align: center;
+    color: black;
+    border: solid;
+    border-color: white;
+}
+.capdesetmana:hover{
+    background-color: grey;
+}
+

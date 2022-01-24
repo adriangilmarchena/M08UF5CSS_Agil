@@ -1,0 +1,93 @@
+.horari{
+    display: grid;
+    background-color: blanchedalmond;
+    grid-template-columns: auto auto auto auto auto auto;
+    text-align: center;
+    color: red;
+    border: 1px solid black;
+}
+
+.horari div{
+    border: 1px solid black;
+}
+
+.hora{
+    grid-column: 1;
+}
+
+.pati{
+    grid-column:2 / 7;
+    grid-row: 5;
+}
+
+.m07{
+    grid-column: 2;
+    grid-row: 2 / 5;
+    
+}
+
+.m06{
+    grid-column: 3;
+    grid-row: 2 / 5;
+    
+    
+}
+
+.m08{
+    grid-column: 4;
+    grid-row: 3 / 5;
+    
+}
+.m08dimarts{
+    grid-column: 3 ;
+    grid-row: 4 / 4 ;
+}
+#dijous{
+    grid-column: 5;
+}
+
+.m11divendres{
+    grid-column: 6;
+    grid-row: 2 / 4;
+}
+
+.m08divendres{
+    grid-column: 6;
+    grid-row: 4 / 5;
+}
+
+.m06dilluns{
+    grid-column: 2;
+    grid-row: 6 / 10 ;
+}
+
+.m08dimarts2{
+    grid-column: 3;
+    grid-row: 6 / 6 ;
+}
+
+.tutoria{
+ grid-column: 4;
+ grid-row: 6 / 6;   
+}
+
+.m11dimecres{
+    grid-column: 4;
+    grid-row: 7 / 7;
+    
+}
+
+.m10{
+    grid-column:5 ;
+    grid-row:6 / 8 ;
+}
+
+.m08dijous{
+    grid-column: 5;
+    grid-row:8 / 9 ;
+}
+
+.m08divendres2{
+    grid-column:6 ;
+    grid-row:6 / 7 ;
+}

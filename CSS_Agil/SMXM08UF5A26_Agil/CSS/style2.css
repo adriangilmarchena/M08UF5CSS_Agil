@@ -1,0 +1,64 @@
+.blanco{
+    background-color:white;
+    
+    
+}
+.amarillo{
+    background-color: rgb(172, 172, 5);
+}
+.azul{
+    background-color: rgb(24, 24, 185);
+}
+.rojo{
+    background-color: rgb(177, 1, 1);
+}
+body{
+    width: 900px;
+    height: 500px;
+    display: inline-flex;
+}
+
+aside{
+    border-right: solid black;
+    width: 100%;
+}
+
+aside div{
+    height: 33.2%;
+}
+
+#pequeño2-1{
+    height: 100%;
+
+}
+
+#pequeño2-2 ,#pequeño2-3{
+    height: 100%;
+}
+
+#grande2-1{
+    border-bottom: solid black;
+}
+
+#pequeño1-1{
+    height: 66.66%;
+    border-bottom: solid black;
+}
+#pequeño1-3{
+    height: 33.33%;
+    border-bottom: solid black;
+}
+
+#pequeño1-4{
+    height: 33.33%;
+    border-bottom: solid black;
+}
+
+#pequeño4-3{
+
+    width: 50%;
+}
+
+#pequeño4-4{
+    
+}

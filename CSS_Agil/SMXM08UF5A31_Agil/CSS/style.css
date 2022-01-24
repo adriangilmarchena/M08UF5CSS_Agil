@@ -1,0 +1,210 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+}
+
+.encabezado {
+    background-color: grey;
+    border: 10px;
+}
+
+.encabezado nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 45px;
+
+}
+
+.encabezado nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    border: 25px;
+}
+
+li {
+    color: white;
+    padding: 12px 20px;
+    display: block;
+    border-left: black solid 1px;
+    border-right: black solid 1px;
+}
+
+li:hover {
+    color: black;
+}
+
+.llac {
+    position: center;
+    width: 100%;
+}
+
+h2 {
+    text-align: center;
+    padding: 50px;
+    color: cadetblue;
+}
+
+.imagenViaje {
+    width: 25%;
+}
+.imagenViaje:hover {
+    opacity: 30%;
+}
+
+.imagenesFila {
+    text-align: center;
+}
+
+#img2 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.textoFila {
+    text-align: center;
+    font-style: italic;
+}
+
+.textoFila2 {
+    padding-left: 22%;
+    padding-right: 22%;
+}
+
+.texto {
+    text-align: center;
+    width: 30%;
+    padding-top: 50px;
+    padding-left: 35%;
+}
+
+.espacioTexto {
+    padding-bottom: 10px;
+}
+
+button {
+    background-color: rgb(34, 34, 34);
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border: none;
+    border-radius: 6px;
+}
+
+button:hover {
+    opacity: 30%;
+}
+
+.lineaFooter{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: rgb(136, 136, 136);
+}
+
+hr{
+    margin-bottom: 20px;
+}
+
+.footer2{
+    padding-left: 35px;
+    padding-right: 35px;
+   
+}
+
+.formulario{
+    text-align: center;
+}
+
+.bodyGrid{
+    width: 400px;
+    height: 280px;
+    margin:40%;
+    color:white;
+}
+
+.headerGrid{
+    display: inline-flex;
+    border: 0%;
+}
+
+#section1{
+    width: 200px;
+    height: 70px;
+    background-color: red;
+    border: 0%;
+}
+#section2{
+    width: 200px;
+    height: 70px;
+    background-color: blue;
+    border: 0%;
+}
+aside{
+    width: 100px;
+    height: 140px;
+    background-color: yellow;
+    display: flex;
+    float: left;
+    border: 0%;
+   
+}
+article{
+    display: inline-flex;
+}
+#section4{
+    width: 100px;
+    height: 70px;
+    background-color: rgb(110, 32, 110);
+}
+#section5{
+    width: 200px;
+    height: 70px;
+    background-color: midnightblue;
+}
+#section6{
+    width: 100px;
+    height: 70px;
+    background-color: pink;
+}
+#section7{
+    width: 100px;
+    height: 70px;
+    background-color: yellow;
+}
+#section8{
+    width: 100px;
+    height: 70px;
+    background-color: white;
+}
+
+.footerGrid{
+    display: inline-flex;
+}
+#section9{
+    width: 100px;
+    height: 70px;
+    background-color:rgb(0, 153, 255) ;
+}
+#section10{
+    width: 100px;
+    height: 70px;
+    background-color: brown;
+}
+#section11{
+    width: 100px;
+    height: 70px;
+    background-color: red;
+}
+#section12{
+    width: 100px;
+    height: 70px;
+    background-color: saddlebrown;
+}
+

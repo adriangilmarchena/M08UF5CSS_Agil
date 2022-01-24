@@ -1,0 +1,87 @@
+
+
+body{
+    width: 400px;
+    height: 280px;
+    margin:40%;
+    background-color: black;
+    color:white;
+    
+}
+header{
+    display: inline-flex;
+    border: 0%;
+}
+#section1{
+    width: 200px;
+    height: 70px;
+    background-color: red;
+    border: 0%;
+}
+#section2{
+    width: 200px;
+    height: 70px;
+    background-color: blue;
+    border: 0%;
+}
+aside{
+    width: 100px;
+    height: 140px;
+    background-color: yellow;
+    display: flex;
+    float: left;
+    border: 0%;
+   
+}
+article{
+    display: inline-flex;
+}
+#section4{
+    width: 100px;
+    height: 70px;
+    background-color: rgb(110, 32, 110);
+}
+#section5{
+    width: 200px;
+    height: 70px;
+    background-color: midnightblue;
+}
+#section6{
+    width: 100px;
+    height: 70px;
+    background-color: pink;
+}
+#section7{
+    width: 100px;
+    height: 70px;
+    background-color: yellow;
+}
+#section8{
+    width: 100px;
+    height: 70px;
+    background-color: white;
+}
+
+footer{
+    display: inline-flex;
+}
+#section9{
+    width: 100px;
+    height: 70px;
+    background-color:rgb(0, 153, 255) ;
+}
+#section10{
+    width: 100px;
+    height: 70px;
+    background-color: brown;
+}
+#section11{
+    width: 100px;
+    height: 70px;
+    background-color: red;
+}
+#section12{
+    width: 100px;
+    height: 70px;
+    background-color: saddlebrown;
+}
